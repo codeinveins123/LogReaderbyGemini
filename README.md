@@ -50,7 +50,7 @@ project/
 Run the script from your terminal:
 
 ```bash
-python logreader.py assets/log.log output
+python logreader.py log.log output
 ```
 
 - **First argument:** path to your log file (inside `assets/`)
